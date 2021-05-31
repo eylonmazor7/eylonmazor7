@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi there 👋 
 
-<!--
-**eylonmazor7/eylonmazor7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Junior Full-Stack and Software Developer 💣 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Computer Science B.A Graduate, with excellent control of Python, C++, specializing in OOP.
+Able to take an assignment, process information and complete with efficiency and accuracy. 
+Responsible and thorough, with high analytical abilities and great interpersonal skills.
+
+* 🎓 I’m currently learning the latest languages and technologies ! 🎓
+* 📈 I’m always looking to learn and get better ! 📈
+* 😉 Rapid independent learning ability ! 😉
+* 👨🏽‍💻 Love and passion for programming/developing ! 👨🏽‍💻
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/eylon-mazor)
+[<img align="left" alt="codeSTACKr | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />](eylonmazor7@gmail.com)
+
+<br />
+<br />
