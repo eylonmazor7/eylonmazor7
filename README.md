@@ -3,7 +3,7 @@
 ## I'm a Junior Full-Stack and Software Developer 💣 
 
 
-Computer Science B.A Graduate, with excellent control of Python, C++, specializing in OOP.
+Computer Science B.Sc Graduate, with excellent control of Python, C++, specializing in OOP.
 Able to take an assignment, process information and complete with efficiency and accuracy. 
 Responsible and thorough, with high analytical abilities and great interpersonal skills.
 
